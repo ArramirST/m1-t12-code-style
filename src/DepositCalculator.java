@@ -1,7 +1,7 @@
 import java.net.URI;
 import java.util.Scanner;
 import java.io.IOException;
-
+1
 public class DepositCalculator {
 
     double calculateComplexPercent(double amount, double yearRate, int period) {
